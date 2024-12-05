@@ -36,9 +36,3 @@ $ composer require laminas/laminas-json
 ## Documentation
 
 Browse the documentation online at https://docs.laminas.dev/laminas-json/
-
-## Support
-
-- [Issues](https://github.com/laminas/laminas-json/issues/)
-- [Chat](https://laminas.dev/chat/)
-- [Forum](https://discourse.laminas.dev/)
